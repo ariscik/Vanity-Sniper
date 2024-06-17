@@ -4,4 +4,4 @@ Kendini çok yükseklerde gören bir arkadaşın altyapısı. Çalıştırması 
 
 # ALTYAPI İÇİN YARDIM EDİLMEYECEKTİR.
 
-Discord: https://discord.gg/narcoshop
+Discord: https://discord.gg/narcos
